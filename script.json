@@ -4,7 +4,7 @@
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "ME": "Hey there! What's your name?",
-    "SHAREPOINT": "Wow! You've come at the right time. We are looking for SharePoint folks. %[Apply here- LinkedIn Job posting URL here](http://www.google.com)"
+    "SHAREPOINT": "Wow! You've come at the right time. We are looking for SharePoint folks. %[Apply here- LinkedIn Job posting URL here](http://www.google.com)",
     "APPLY":"Click below to apply for the job. %[Apply here](http://www.google.com)",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, RC Bot is back."
