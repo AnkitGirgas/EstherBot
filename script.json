@@ -1,5 +1,5 @@
 {
-    "HI": "Hi there!\nI’m the personal bot of Rapid Circle.\nType SharePoint,Azure etc. to get details.\n![rc](https://lh4.googleusercontent.com/-Bx1D99B-8Tk/VMpJhO2gciI/AAAAAAAAAIk/pdjfKEFMsZ0SIoSS0bVukiY-rOiC0MfhwCL0B/w960-h649-no/photo.jpg)",
+    "HI": "Hi there!\nI’m the personal bot of Rapid Circle.\n![rc](https://lh4.googleusercontent.com/-Bx1D99B-8Tk/VMpJhO2gciI/AAAAAAAAAIk/pdjfKEFMsZ0SIoSS0bVukiY-rOiC0MfhwCL0B/w960-h649-no/photo.jpg)\nType SharePoint,Azure etc. to get more details.",
     "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tells her](postback:twitter)",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
